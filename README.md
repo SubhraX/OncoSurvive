@@ -123,7 +123,7 @@ deactivate
 
 ## Contact
 
-Created by Ayushmaan and ShubhraX
+Created by Ayuman07 and ShubhraX
 
 ---
 
