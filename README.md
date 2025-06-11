@@ -18,7 +18,7 @@ Follow these steps to run the application in a **virtual environment** (`.venv`)
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/cancer-survival-predictor.git
+git clone https://github.com/SubhraX/OncoSurvive.git
 cd cancer-survival-predictor
 ```
 
